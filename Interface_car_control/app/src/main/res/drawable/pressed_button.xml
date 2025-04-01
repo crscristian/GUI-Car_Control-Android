@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Starea normală -->
+    <item android:color="#FF0000" android:state_pressed="false"/>
+    <!-- Starea apăsată -->
+    <item android:color="#00FF00" android:state_pressed="true"/>
+</selector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="20dp" /> <!-- Ajustează valoarea pentru a schimba gradul de rotunjire al colțurilor -->
+    <solid android:color="#4CB0DF" /> <!-- Setează culoarea de fundal -->
+</shape>

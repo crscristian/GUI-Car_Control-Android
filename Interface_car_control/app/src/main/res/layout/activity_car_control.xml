@@ -1,0 +1,147 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/firstLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/thirdLayout"
+        android:layout_marginBottom="0dp"
+        android:background="@color/portrate_camera"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/camera_image"
+            android:layout_width="wrap_content"
+            android:layout_height="75dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="112dp"
+            android:layout_marginEnd="136dp"
+            android:layout_marginStart="136dp"
+            android:layout_marginBottom="113dp"
+            android:background="@android:color/transparent"
+            android:contentDescription="power"
+            android:src="@drawable/camera" />
+
+        <ImageView
+            android:id="@+id/image_View"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/textViewDistance"
+            android:layout_width="230dp"
+            android:layout_height="38dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="194dp"
+            android:layout_marginBottom="370dp"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textViewSpeed"
+            android:layout_width="212dp"
+            android:layout_height="38dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginEnd="194dp"
+            android:layout_marginBottom="323dp"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/thirdLayout"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="1dp"
+        android:background="@color/portrate_control"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/right_direction"
+            android:layout_width="108dp"
+            android:layout_height="89dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="230dp"
+            android:layout_marginEnd="105dp"
+            android:layout_marginBottom="35dp"
+            android:background="@android:color/transparent"
+            android:contentDescription="power"
+            android:src="@drawable/right_pos" />
+
+        <ImageButton
+            android:id="@+id/left_direction"
+            android:layout_width="wrap_content"
+            android:layout_height="86dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="230dp"
+            android:layout_marginEnd="280dp"
+            android:layout_marginBottom="34dp"
+            android:background="@android:color/transparent"
+            android:contentDescription="power"
+            android:src="@drawable/left_pos" />
+
+        <ImageButton
+            android:id="@+id/accelerate"
+            android:layout_width="122dp"
+            android:layout_height="129dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="270dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="180dp"
+            android:background="@android:color/transparent"
+            android:contentDescription="power"
+            android:src="@drawable/up" />
+
+        <ImageButton
+            android:id="@+id/back"
+            android:layout_width="122dp"
+            android:layout_height="129dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="270dp"
+            android:layout_marginTop="170dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="60dp"
+            android:background="@android:color/transparent"
+            android:contentDescription="power"
+            android:src="@drawable/down" />
+
+
+
+        <Switch
+            android:id="@+id/direction"
+            android:layout_width="wrap_content"
+            android:layout_height="41dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="29dp"
+            android:layout_marginBottom="298dp"
+            android:text=""
+            tools:ignore="UseSwitchCompatOrMaterialXml" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\TCPServerResponse.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\TCPServerResponse.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\TCPClient.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\TCPClient.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\TCPAuthResponse.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\TCPAuthResponse.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\ResetPassword.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\ResetPassword.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\MjpegStreamProcessor.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\MjpegStreamProcessor.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\MainActivity.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\MainActivity.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\IPAddressUtils.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\IPAddressUtils.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\HashUtils.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\HashUtils.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\CryptoData.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\CryptoData.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\CarControl.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\CarControl.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\AuthUser.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\AuthUser.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\AdressIP.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\com\\example\\interface_car_control\\AdressIP.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 574,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPServerResponse.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\TCPServerResponse.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\TCPServerResponse.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\TCPServerResponse.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\TCPServerResponse.java",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:58:36.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TCPClient.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\TCPClient.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\TCPClient.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\TCPClient.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\TCPClient.java",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:57:46.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TCPAuthResponse.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\TCPAuthResponse.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\TCPAuthResponse.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\TCPAuthResponse.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\TCPAuthResponse.java",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:57:40.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResetPassword.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\ResetPassword.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\ResetPassword.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\ResetPassword.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\ResetPassword.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:57:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MjpegStreamProcessor.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\MjpegStreamProcessor.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\MjpegStreamProcessor.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\MjpegStreamProcessor.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\MjpegStreamProcessor.java",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:56:59.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainActivity.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\MainActivity.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\MainActivity.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\MainActivity.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\MainActivity.java",
+              "ViewState": "AgIAANwAAAAAAAAAAAAQwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:56:14.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPAddressUtils.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\IPAddressUtils.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\IPAddressUtils.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\IPAddressUtils.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\IPAddressUtils.java",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:56:10.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HashUtils.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\HashUtils.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\HashUtils.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\HashUtils.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\HashUtils.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:56:07.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CryptoData.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\CryptoData.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\CryptoData.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\CryptoData.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\CryptoData.java",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:56:03.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarControl.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\CarControl.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\CarControl.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\CarControl.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\CarControl.java",
+              "ViewState": "AgIAAMoCAAAAAAAAAAAQwLgCAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:52:23.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthUser.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\AuthUser.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\AuthUser.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\AuthUser.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\AuthUser.java",
+              "ViewState": "AgIAACMBAAAAAAAAAAAQwEIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:49:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdressIP.java",
+              "DocumentMoniker": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\AdressIP.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\com\\example\\interface_car_control\\AdressIP.java",
+              "ToolTip": "C:\\Users\\zedyi\\Desktop\\GUI-Car_Control-Android\\Interface_car_control\\app\\src\\main\\java\\com\\example\\interface_car_control\\AdressIP.java",
+              "RelativeToolTip": "app\\src\\main\\java\\com\\example\\interface_car_control\\AdressIP.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-04-01T20:48:57.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
