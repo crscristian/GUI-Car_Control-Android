@@ -30,10 +30,10 @@ This Android application allows users to connect to a Raspberry Pi and control a
 ![Landscape_Layout](Assets/Landscape_Layout.png)  
 
 ### 5. Portrait Mode Layout  
-![Portrait_layout](Assets/Portrait_layout.png)  
+![Portrait_layout](Assets/Portrait_Layout.png)  
 
 ### 6. System Schematic Diagram  
-![schematic_Diagram_AppAndroid_RoboCar](Schematic_Diagram_AppAndroid_RoboCar.png)  
+![schematic_Diagram_AppAndroid_RoboCar](Assets/Schematic_Diagram_AppAndroid_RoboCar.png)  
 
 ## Technologies Used  
 
