@@ -38,7 +38,7 @@ This Android application allows users to connect to a Raspberry Pi and control a
 ![Portrait_layout](Assets/Portrait_Layout.png)  
 
 ### 6. System Schematic Diagram  
-![schematic_Diagram_AppAndroid_RoboCar](Assets/Schematic_Diagram_AppAndroid_RoboCar.png)  
+![Schematic_Diagram_AppAndroid_RoboCar](Assets/Schematic_Diagram_AppAndroid_RoboCar.png)  
 
 ## Technologies Used  
 
