@@ -15,6 +15,11 @@ This Android application allows users to connect to a Raspberry Pi and control a
 - **Secure Communication**  
   - Implements **data encryption and decryption** for enhanced security.  
 
+## Architecture  
+
+- **MVM (Model-View-Model)**  
+  - The application follows the **MVM architecture**, ensuring a clean separation of concerns between the UI (View), the application logic (Model), and the data interaction (Model). This structure promotes scalability, maintainability, and testability
+
 ## Screenshots  
 
 ### 1. RoboCar Model  
