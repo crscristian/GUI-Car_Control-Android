@@ -18,22 +18,22 @@ This Android application allows users to connect to a Raspberry Pi and control a
 ## Screenshots  
 
 ### 1. RoboCar Model  
-<img src="Assets/Car_RC.png" width="369" height="745">  
+![Car_RC](Assets/Car_RC.png)  
 
 ### 2. Connection Interface  
-<img src="Assets/Connect_Interface.png" width="369" height="745">  
+![Connect_Interface](Assets/Connect_Interface.png)  
 
 ### 3. Data Encryption & Decryption  
-<img src="Assets/EncryptDecryptData.png" width="369" height="745">  
+![EncryptDecryptData](Assets/EncryptDecryptData.png)  
 
 ### 4. Landscape Mode Layout  
-<img src="Assets/Landscape_Layout.png" width="369" height="745">  
+![Landscape_Layout](Assets/Landscape_Layout.png)  
 
 ### 5. Portrait Mode Layout  
-<img src="Assets/Portrait_layout.png" width="369" height="745">  
+![Portrait_layout](Assets/Portrait_layout.png)  
 
 ### 6. System Schematic Diagram  
-<img src="Assets/schematic_Diagram_AppAndroid_RoboCar.png" width="800">  
+![schematic_Diagram_AppAndroid_RoboCar](Schematic_Diagram_AppAndroid_RoboCar.png)  
 
 ## Technologies Used  
 
