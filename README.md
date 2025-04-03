@@ -23,7 +23,7 @@ This Android application allows users to connect to a Raspberry Pi and control a
 ## Screenshots  
 
 ### 1. RoboCar Model  
-![Car_RC](Assets/Car_RC.png)  
+<img src="Assets/Car_RC.png" width="442" height="480">  
 
 ### 2. Connection Interface  
 ![Connect_Interface](Assets/Connect_Interface.png)  
